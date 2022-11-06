@@ -1,4 +1,4 @@
-- Hi, I’m @KubaSzarpak
+- Hi, I’m Jakub Szarpak
 - I’m interested in Computer Science
 - I’m currently learning Java functional interfaces and generics
 - I’m looking for Intership in Java
