@@ -4,7 +4,7 @@
 - I’m currently learning about aplication of database and artificial iteligence (AI)
 
 - Email: kuba.szarpak02@gmail.com
-- Linked in: https://www.linkedin.com/in/jakub-szarpak-6b6122238/
+- Linked in: https://www.linkedin.com/in/jakub-szarpak/
 
 <!---
 KubaSzarpak/KubaSzarpak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
